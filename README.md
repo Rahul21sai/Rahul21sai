@@ -1,7 +1,7 @@
 ![logo](https://github.com/Rahul21sai/Rahul21sai/assets/110412514/52669cfa-5566-4d94-a15a-904bcf887447)
 
 
-<h1 align="center">Hi 👋, I'm vUDUMULA NAGA SAI RAHUL</h1>
+<h1 align="center">Hi 👋, I'm VUDUMULA NAGA SAI RAHUL</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul21sai&label=Profile%20views&color=0e75b6&style=flat" alt="rahul21sai" /> </p>
