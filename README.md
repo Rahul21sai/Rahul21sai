@@ -31,17 +31,16 @@
 
 ## ⚡ GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul21sai&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul21sai&amp;theme=tokyonight&amp;hide_border=true">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rahul21sai&amp;theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rahul21sai&amp;theme=tokyonight&amp;utcOffset=5.5">
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul21sai&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rahul21sai&amp;theme=tokyonight">
 </p>
 
 ## 🚀 Featured Projects
 | Project Name | Description | Tech Stack |
 |---|---|---|
-| [GitGuard](https://github.com/Rahul21sai/GitGuard) | Pre-push Git hook tool using Shannon entropy analysis to detect and block accidental API key/secret exposure before commits reach remote. | Python, Git Hooks, Security |
 | [RAG System](https://github.com/Rahul21sai/RAG-System) | Offline/air-gapped LLM deployment pipeline supporting Llama-2, Mistral, Zephyr, and Gemma via LangChain and LlamaIndex. | Python, LangChain, LlamaIndex, LLMOps |
 | [AEM Orchestrator](https://github.com/Rahul21sai/AEM-Orchestrator) | Java automation system where AI generates AEM component code, writes to disk, and triggers Maven builds via XML watcher. | Java, AEM, Maven, Automation |
 | [movie_ticket_forntend](https://github.com/Rahul21sai/movie_ticket_forntend) | Full-stack MERN movie booking platform with responsive UI, booking flows, and backend APIs. | React, Node.js, Express.js, MongoDB |
