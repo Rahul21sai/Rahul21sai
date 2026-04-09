@@ -43,7 +43,7 @@
 |---|---|---|
 | [RAG System](https://github.com/Rahul21sai/RAG-System) | Offline/air-gapped LLM deployment pipeline supporting Llama-2, Mistral, Zephyr, and Gemma via LangChain and LlamaIndex. | Python, LangChain, LlamaIndex, LLMOps |
 | [AEM Orchestrator](https://github.com/Rahul21sai/AEM-Orchestrator) | Java automation system where AI generates AEM component code, writes to disk, and triggers Maven builds via XML watcher. | Java, AEM, Maven, Automation |
-| [movie_ticket_forntend](https://github.com/Rahul21sai/movie_ticket_forntend) | Full-stack MERN movie booking platform with responsive UI, booking flows, and backend APIs. | React, Node.js, Express.js, MongoDB |
+| [movie_ticket_frontend](https://github.com/Rahul21sai/movie_ticket_forntend) | Full-stack MERN movie booking platform with responsive UI, booking flows, and backend APIs. | React, Node.js, Express.js, MongoDB |
 | [Anime_imageGenration_Using_GAN](https://github.com/Rahul21sai/Anime_imageGenration_Using_GAN) | GAN-based deep learning model for anime image generation; recognized with Best Paper Award at ICOECA 2024. | Python, GANs, Deep Learning |
 | [SnapCase](https://github.com/Rahul21sai/SnapCase) | TypeScript project focused on clean architecture and practical web development workflows. | TypeScript |
 
