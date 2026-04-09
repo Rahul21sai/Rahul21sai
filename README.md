@@ -1,7 +1,4 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Hi+👋+I'm+Rahul;Application+Developer+%40+IBM;AI%2FML+Engineer+%7C+AEM+Expert;Open+to+SDE+Roles+at+Product+Companies"></a>
-</p>
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Rahul%20|%20SDE%20%7C%20AI%20Engineer&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32">
 </p>
 
