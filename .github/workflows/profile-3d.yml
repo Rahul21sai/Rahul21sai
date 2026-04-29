@@ -1,0 +1,44 @@
+name: Generate 3D Contribution Calendar
+
+on:
+  # Run automatically every 24 hours
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Allows manual workflow run
+  workflow_dispatch:
+  
+  # Run on every push to main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Profile
+    permissions:
+      contents: write
+
+    steps:
+      # Checkout the repository
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # Generate the 3D contribution calendar
+      - name: Generate 3D Contribution File
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Rahul21sai
+      
+      # Commit and push the generated files
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A profile-3d-contrib
+          git commit -m "Generated 3D contribution calendar" || exit 0
+          git push
+
+# Made with Bob
